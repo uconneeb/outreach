@@ -1,20 +1,20 @@
 # Settings
 title: Outreach
 author: University of Connecticut
-email: analisa.milkey@uconn.edu
+email:
 description: >- # this means to ignore newlines until "baseurl:"
  Outreach for UConn Department of Ecology and Evoutionary Biology
 baseurl: "/"
 # url: https://uconneeb.github.io/outreach
 markdown: kramdown
-tagline: by HTML5 UP
+tagline:
 bannerTitle: "UConn EEB outreach<br />by HTML5 UP"
 bannerTagline: Outreach site for UConn EEB
-bannerDescription: Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
+bannerDescription: This site contains outreach material developed by UConn EEB graduate students.
 bannerImage: images/pic10.jpg
 bannerButton: true
 bannerButtonLink: index.html
-contactTagline: Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+contactTagline: https://eeb.uconn.edu/
 copyright: Untitled
 
 theme: minima
