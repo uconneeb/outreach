@@ -40,4 +40,4 @@ Click here for a more detailed lesson plan, including an additional animal phylo
 Grade level: Kindergarten +
 
 This activity was designed for a local library event. Children used dichotomous keys to identify sea shells from the Pacific and Atlantic oceans. This activity could be easily modified for local flora and fauna.
-Click here for more materials: <a href="pdf/shell_id.pdf" target="_blank">Shell ID</a>
+Click here for more materials: <a href="pdf/shell-id.pdf" target="_blank">Shell ID</a>
