@@ -15,7 +15,7 @@ The <a href="https://biodiversity.uconn.edu" target="_blank">UConn Biodiversity 
 
 Students, faculty, and staff created conifer-living animal ornaments out of felt. These ornaments were hung on a Christmas tree and displayed as part of an outreach effort to get the community engaged with learning about animals that live in conifers and why conifers are ecologically important.
 
-Click here for more photos of the event: <a href="pdf/collections.pdf" target="_blank">Collections Event</a>
+Click here for photos of the event: <a href="pdf/collections.pdf" target="_blank">Collections Event</a>
 
 
 <hr class="major"/>
@@ -31,4 +31,6 @@ Click here for photos and materials from the event: <a href="pdf/parasite-day.pd
 
 ## Greenhouse Outreach
 
-The <a href="https://twitter.com/EEBGreenhouse" target="_blank">UConn EEB Greenhouse</a> contains one of the most diverse living plant collections in the northeastern USA. A grad student put together a presentation to introduce the public to the greenhouse: <a href="pdf/greenhouse.pdf" target="_blank">Greenhouse Activity</a>
+The <a href="https://twitter.com/EEBGreenhouse" target="_blank">UConn EEB Greenhouse</a> contains one of the most diverse living plant collections in the northeastern USA. A grad student put together a presentation to introduce the public to this resource.
+
+Click here for the presentation: <a href="pdf/greenhouse.pdf" target="_blank">Greenhouse Activity</a>
