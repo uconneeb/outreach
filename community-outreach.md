@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community Outreach
-wideImage: images/pic11.jpg
+wideImage: images/collections.jpg
 showOnMenu: true
 ---
 This page contains outreach materials aimed at the broader community.
