@@ -27,3 +27,7 @@ Click here for photos and materials from the event: <a href="pdf/parasite-day.pd
 
 
 <hr class="major"/>
+
+## Greenhouse Outreach
+
+The UConn EEB greenhouse (<a href="url">https://twitter.com/EEBGreenhouse</a>) contains one of the most diverse living plant collections in the northeastern USA. A grad student put together a presentation to introduce the public to the greenhouse: <a href="pdf/greenhouse.pdf" target="_blank">Parasite Day</a>
