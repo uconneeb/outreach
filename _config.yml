@@ -20,19 +20,19 @@ copyright: Untitled
 theme: minima
 
 # Featurette
-featuretteTitle: Erat lacinia
-featuretteFirstHighlight: Portitor ullamcorper
-featuretteFirstTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteFirstIcon: icon fa-diamond
-featuretteSecondHighlight: Sapien veroeros
-featuretteSecondTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteSecondIcon: icon fa-paper-plane
-featuretteThirdHighlight: Quam lorem ipsum
-featuretteThirdTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteThirdIcon: icon fa-rocket
-featuretteFourthHighlight: Sed magna finibus
-featuretteFourthTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteFourthIcon: icon fa-signal
+# featuretteTitle: Erat lacinia
+# featuretteFirstHighlight: Portitor ullamcorper
+# featuretteFirstTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+# featuretteFirstIcon: icon fa-diamond
+# featuretteSecondHighlight: Sapien veroeros
+# featuretteSecondTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+# featuretteSecondIcon: icon fa-paper-plane
+# featuretteThirdHighlight: Quam lorem ipsum
+# featuretteThirdTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+# featuretteThirdIcon: icon fa-rocket
+# featuretteFourthHighlight: Sed magna finibus
+# featuretteFourthTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+# featuretteFourthIcon: icon fa-signal
 
 # Contact
 address: "Ecology & Evolutionary Biology 75 N. Eagleville Road, Unit 3043 Storrs, CT 06269-3043, USA"
