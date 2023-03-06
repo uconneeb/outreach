@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elementary School Outreach
-wideImage: images/collections.jpg
+wideImage: images/library.jpg
 showOnMenu: true
 ---
 ## This page contains outreach materials aimed at elementary school students.
