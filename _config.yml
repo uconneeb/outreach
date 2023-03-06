@@ -8,7 +8,7 @@ baseurl: "/"
 # url: https://uconneeb.github.io/outreach
 markdown: kramdown
 tagline:
-bannerTitle: "UConn EEB outreach<br />by HTML5 UP"
+bannerTitle: "UConn EEB outreach"
 bannerTagline: Outreach site for UConn EEB
 bannerDescription: This site contains outreach material developed by UConn EEB graduate students.
 bannerImage: images/pic10.jpg
