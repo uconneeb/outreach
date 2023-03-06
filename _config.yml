@@ -10,7 +10,7 @@ markdown: kramdown
 tagline:
 bannerTitle: "UConn EEB outreach"
 bannerTagline: Outreach site for UConn EEB
-bannerDescription: This site contains outreach material developed by UConn EEB graduate students.
+bannerDescription: This site contains outreach material developed by UConn EEB graduate students. Click on the sidebar for activities and inspiration.
 bannerImage: images/eeb.jpg
 bannerButton: true
 bannerButtonLink: index.html
