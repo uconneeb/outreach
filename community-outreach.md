@@ -4,7 +4,7 @@ title: Community Outreach
 wideImage: images/collections.jpg
 showOnMenu: true
 ---
-This page contains outreach materials aimed at the broader community.
+## This page contains outreach materials aimed at the broader community.
 
 <hr class="major"/>
 
