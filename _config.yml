@@ -12,7 +12,7 @@ bannerTitle: "UConn EEB outreach"
 bannerTagline: Outreach site for UConn EEB
 bannerDescription: This site contains outreach material developed by UConn EEB graduate students. Click on the sidebar for activities and inspiration.
 bannerImage: images/eeb.jpg
-bannerButton: true
+bannerButton: false
 bannerButtonLink: index.html
 contactTagline: <a href="https://eeb.uconn.edu" target="_blank">UConn EEB Website</a>
 # copyright: Untitled
