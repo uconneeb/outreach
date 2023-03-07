@@ -14,7 +14,7 @@ bannerDescription: This site contains outreach material developed by UConn EEB g
 bannerImage: images/eeb.jpg
 bannerButton: true
 bannerButtonLink: index.html
-contactTagline: https://eeb.uconn.edu/
+contactTagline: <a href="https://eeb.uconn.edu" target="_blank">UConn EEB Website</a>
 copyright: Untitled
 
 theme: minima
@@ -36,5 +36,5 @@ theme: minima
 
 # Contact
 address: "Ecology & Evolutionary Biology 75 N. Eagleville Road, Unit 3043 Storrs, CT 06269-3043, USA"
-twitter_username: uconneeb
-tik_tok: https://www.tiktok.com/@uconneeb
+twitter_username: <a href="https://twitter.com/uconneeb" target="_blank">UConn EEB Twitter</a>
+tik_tok: <a href="https://www.tiktok.com/@uconneeb" target="_blank">UConn EEB Tiktok</a>
