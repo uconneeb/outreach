@@ -1,5 +1,5 @@
 # Settings
-# title: Outreach
+title:
 author: University of Connecticut
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -15,7 +15,7 @@ bannerImage: images/eeb.jpg
 bannerButton: true
 bannerButtonLink: index.html
 contactTagline: <a href="https://eeb.uconn.edu" target="_blank">UConn EEB Website</a>
-copyright: Untitled
+# copyright: Untitled
 
 theme: minima
 
