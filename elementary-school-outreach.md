@@ -21,7 +21,7 @@ Click here for a more detailed lesson plan: <a href="pdf/pollinators.pdf" target
 
 Grade level: Kindergarten +
 
-This activity was designed for a bilingual (Spanish / English) kindergarten class. Students drew an animal of their choice and were given craft materials to embellis their drawing.
+This activity was designed for a bilingual (Spanish / English) kindergarten class. Students drew an animal of their choice and were given craft materials to embellish their drawing.
 click here for a more detailed lesson plan: <a href="pdf/zoology.pdf" target="_blank">Zoology Lesson</a>
 
 <hr class="major"/>
