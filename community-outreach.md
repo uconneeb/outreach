@@ -34,3 +34,11 @@ Click here for photos and materials from the event: <a href="pdf/parasite-day.pd
 The <a href="https://twitter.com/EEBGreenhouse" target="_blank">UConn EEB Greenhouse</a> contains one of the most diverse living plant collections in the northeastern USA. A grad student put together a presentation to introduce the public to this resource.
 
 Click here for the presentation: <a href="pdf/greenhouse.pdf" target="_blank">Greenhouse Activity</a>
+
+<hr class="major"/>
+
+## Recruitment Videos
+
+The outreach committee created a series of videos to help prospective students apply to the department.
+
+Click here to see the videos: <a href="https://eeb.uconn.edu/resources/videoresources" target="_blank">Recruitment Videos</a>
