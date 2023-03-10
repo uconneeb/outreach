@@ -5,7 +5,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
  Outreach for UConn Department of Ecology and Evoutionary Biology
 baseurl: "/"
-# url: https://uconneeb.github.io/outreach
+url: https://uconneeb.github.io/outreach
 markdown: kramdown
 tagline:
 bannerTitle: "UConn EEB outreach"
