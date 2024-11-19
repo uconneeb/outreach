@@ -8,7 +8,7 @@ showOnMenu: true
 
 <hr class="major"/>
 
-## Zoology Activity
+## Predator / Prey Interactions Activity
 
 Grade level: 4th grade +
 
