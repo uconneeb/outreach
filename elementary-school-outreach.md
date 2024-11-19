@@ -8,6 +8,16 @@ showOnMenu: true
 
 <hr class="major"/>
 
+## Zoology Activity
+
+Grade level: 4th grade +
+
+This activity was designed to introduce students to the idea of predator / prey interactions.
+
+Click here for a more detailed lesson plan: <a href="pdf/predator-prey-tag.pdf" target="_blank">Predator Prey Lesson</a>
+
+<hr class="major"/>
+
 
 ## Zoology Activity
 
