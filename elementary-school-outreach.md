@@ -74,3 +74,11 @@ Grade level: First grade +
 This activity was designed to introduce students to ideas about what wild animals need to survive and how we can help populations of endangered animals. Students played a game of musical chairs using resource cards to learn about how finite resources affect populations of animals.
 
 Click here for more materials: <a href="pdf/resource-activity.pdf" target="_blank">Resource Activity</a>
+
+## Metamorphosis Activity
+
+Grade level: Kindergarten +
+
+This activity was designed to introduce students to the idea of metamorphosis. Students used pipe cleaners to make caterpillars and then added wings to turn their caterpillars into butterflies.
+
+Click here for more materials: <a href="pdf/metamorphosis.pdf" target="_blank">Metamorphosis Activity</a>
