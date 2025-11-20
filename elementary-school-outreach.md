@@ -66,3 +66,11 @@ Grade level: Kindergarten +
 This activity was designed for a local library event. Children used dichotomous keys to identify sea shells from the Pacific and Atlantic oceans. This activity could be easily modified for local flora and fauna.
 
 Click here for more materials: <a href="pdf/shell-id.pdf" target="_blank">Shell ID</a>
+
+## Resource Activity
+
+Grade level: First grade +
+
+This activity was designed to introduce students to ideas about what wild animals need to survive and how we can help populations of endangered animals. Students played a game of musical chairs using resource cards to learn about how finite resources affect populations of animals.
+
+Click here for more materials: <a href="pdf/resource-activity.pdf" target="_blank">Resource Activity</a>
